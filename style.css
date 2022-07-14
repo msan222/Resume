@@ -3,6 +3,7 @@ body {
     font-size: 15px;
     max-width: 960px;
     margin: auto;
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -19,7 +20,7 @@ h2 {
 
 main { 
     display: grid;
-    grid-template-columns: 50% 60%;
+    grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
 
@@ -29,7 +30,8 @@ header {
 }
 
 section {
-    margin: auto 1em 4em 2em;
+    margin: auto 2em 4em 2em;
+    background-color: whitesmoke;
 }
 
 i {
@@ -42,7 +44,7 @@ p {
 
 hr {
     border: none;
-    background-color: lightgray;
+    background-color: gray;
     height: 1px;
 }
 
