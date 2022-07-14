@@ -54,3 +54,15 @@ h1, h2 {
 #mainLeft {
     border-right: 1px solid lightgray;
  }
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  img {
+    margin-top: 100px;
+    border: 5px solid #555;
+  }
